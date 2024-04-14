@@ -1,0 +1,9 @@
+{
+  "version": "4.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../MT412_PowerBi_Group3.SemanticModel"
+    },
+    "byConnection": null
+  }
+}
